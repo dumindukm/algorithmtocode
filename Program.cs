@@ -16,7 +16,7 @@ namespace mylogic
                 Console.WriteLine($"{item.Key} appears {item.Value}");
             }
 
-         Console.ReadLine();
+            Console.ReadLine();
 
         }
     }
